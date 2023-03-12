@@ -1,0 +1,30 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+}
+
+.grid-item {
+    padding: 5px;
+    text-align: left;
+    width: 25vw;
+}
+.grid-item img {
+    width: 25vw;
+}
+
+  /* .grid-item img{
+      width: 95%;
+  } */
+
+.para{
+    text-align: left;
+    width: 50%;
+    padding-left: 86px;
+}
+
+h1{
+    font-size: 79px;
+    margin: 0;
+}
+

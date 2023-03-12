@@ -1,0 +1,34 @@
+.navPar{
+    text-decoration-line: none;
+    color: white;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+.navBar{
+    position: absolute;
+    z-index: 1;
+    box-sizing: border-box;
+    
+    top: 0;
+}
+.navBar div{
+    color: white;
+    text-align: left;
+}
+.navBar div img{
+    position: sticky;
+}
+
+.navBar div div{
+    position: absolute;
+    left:95px;
+    top:70px;
+}
+.footer{
+    position: relative;
+    margin:0;
+    padding:0;
+}
+
+

@@ -1,0 +1,31 @@
+.banner{
+    width:100%;
+}
+
+.content{
+    display:flex;
+    justify-content: space-between;
+    margin: 19px 86px 61px 0px;
+}
+
+.one{
+    margin-left: 86px;
+    position: absolute;
+    top:20px;
+    left:0;
+}
+
+.line{
+    position: relative;
+    padding-bottom: 170px;
+}
+
+.full{
+    display: flex;
+}
+
+h1 {
+    padding-left: 86px;
+}
+
+

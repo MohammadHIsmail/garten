@@ -1,0 +1,14 @@
+.full{
+    display: flex;
+}
+
+h1{
+    font-size: 79px;
+    margin: 0;
+}
+
+.content{
+    display:flex;
+    justify-content: space-between;
+    margin: 19px 86px 61px 86px;
+}
